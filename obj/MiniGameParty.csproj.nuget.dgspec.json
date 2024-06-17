@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samsung-user\\Desktop\\Moble_강의자료 및 기타자료\\4_프로젝트_C#_C++_OpenCV_라즈베리파이 포함\\3기_2023_12~2024_6\\C#_miniproject\\1조_완성본도착함\\1조_미니게임파티\\MiniGameParty(최종)\\MiniGameParty.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samsung-user\\Desktop\\Moble_강의자료 및 기타자료\\4_프로젝트_C#_C++_OpenCV_라즈베리파이 포함\\3기_2023_12~2024_6\\C#_miniproject\\1조_완성본도착함\\1조_미니게임파티\\MiniGameParty(최종)\\MiniGameParty.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samsung-user\\Desktop\\Moble_강의자료 및 기타자료\\4_프로젝트_C#_C++_OpenCV_라즈베리파이 포함\\3기_2023_12~2024_6\\C#_miniproject\\1조_완성본도착함\\1조_미니게임파티\\MiniGameParty(최종)\\MiniGameParty.csproj",
+        "projectName": "MiniGameParty",
+        "projectPath": "C:\\Users\\samsung-user\\Desktop\\Moble_강의자료 및 기타자료\\4_프로젝트_C#_C++_OpenCV_라즈베리파이 포함\\3기_2023_12~2024_6\\C#_miniproject\\1조_완성본도착함\\1조_미니게임파티\\MiniGameParty(최종)\\MiniGameParty.csproj",
+        "packagesPath": "C:\\Users\\samsung-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samsung-user\\Desktop\\Moble_강의자료 및 기타자료\\4_프로젝트_C#_C++_OpenCV_라즈베리파이 포함\\3기_2023_12~2024_6\\C#_miniproject\\1조_완성본도착함\\1조_미니게임파티\\MiniGameParty(최종)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samsung-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
